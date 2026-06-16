@@ -1,4 +1,4 @@
-export const APP_NAME = "Pulse Analytics";
+export const APP_NAME = "Pulse";
 export const APP_TAGLINE = "Clarity at the speed of your business.";
 export const APP_DESCRIPTION =
   "Real-time KPIs, revenue trends, and user analytics — all in one beautiful dashboard.";
