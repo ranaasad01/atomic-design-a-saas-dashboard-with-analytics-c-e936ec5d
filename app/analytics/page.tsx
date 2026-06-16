@@ -239,7 +239,7 @@ export default function AnalyticsPage() {
                 </span>
               </div>
               <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-white">
-                Analytics
+                Analytics live
               </h1>
               <p className="text-slate-400 mt-1 text-sm sm:text-base">
                 Deep-dive into user behavior, traffic sources, and revenue trends.
@@ -651,4 +651,3 @@ export default function AnalyticsPage() {
       </div>
     </div>
   );
-}
